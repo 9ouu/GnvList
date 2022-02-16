@@ -14,6 +14,6 @@ mac
 
 2、信息获取地址为国外站点，需要科学上网
 
-3、可以在issues写需求，提交bug
+3、因本人工作需求而编写的工具，使用的同学想加入需求可以在issues提。也可以反馈bug
 
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/40543458/153545467-5f132a96-13af-4476-ba8f-7825a3665aa7.png">
